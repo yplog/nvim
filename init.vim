@@ -27,6 +27,7 @@ Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
 Plug 'vimwiki/vimwiki'
 
+Plug 'kdheepak/lazygit.nvim'
 call plug#end()
 
 " Theme
